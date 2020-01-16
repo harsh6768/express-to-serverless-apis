@@ -3,4 +3,4 @@
 # express-to-serverless-apis
 Simple steps to convert express apis to serverless apis using serverless framework.
 
-(Follow the link for better understanding)[https://serverless.com/blog/serverless-express-rest-api/]
+[Follow the link for better understanding](https://serverless.com/blog/serverless-express-rest-api/)
