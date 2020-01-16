@@ -6,3 +6,5 @@ Simple steps to convert express apis to serverless apis using serverless framewo
 [Go to Serverless Framework Website to learn more about serverless ](https://serverless.com/framework/docs/getting-started/)
 
 [Follow the link for better understanding](https://serverless.com/blog/serverless-express-rest-api/)
+
+[Visit this link to configure serverless.yaml file](https://serverless.com/framework/docs/providers/aws/guide/resources/)
